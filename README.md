@@ -2,7 +2,7 @@
 This is a single-file Streamlit web application that converts a structured Excel project schedule into a fully interactive, offline-capable Gantt chart exported as a standalone HTML file — no software installation required beyond a web browser.
 
 ## Core Workflow
-Input → Processing → Interactive Output
+Input → Assigne discilines to colors → Processing → Interactive downloadable Output
 
 Upload an Excel file with columns: TaskID, Discipline, Start, End (plus optional TaskName, Zone, floor)
 Configure per-discipline colors via color pickers
